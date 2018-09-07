@@ -1,4 +1,4 @@
-# Apartmentų trumpalaikei nuomai uždakymas LT-EN-RU
+# Apartmentų trumpalaikei nuomai užsakymo tinklalapis LT-EN-RU
 
 - Tinklalapis sukurtas nuo 0, naudojantis Laravel
 - Daugiakalbiškumas
